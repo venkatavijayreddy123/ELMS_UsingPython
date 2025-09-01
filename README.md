@@ -3,24 +3,24 @@
 <h1>Features</h1>
 <h2>Employee Features</h2>
 
-<h3>Register and log in securely</h3>
+<p>Register and log in securely<br>
 
-<h3>Apply for leave with start date, end date, and reason</h3>
+Apply for leave with start date, end date, and reason<br>
 
-<h3>View the status of leave requests (Pending, Approved, Rejected)</h3>
+View the status of leave requests (Pending, Approved, Rejected)<br>
 
-<h3>View a history of all leave requests</h3>
-
+View a history of all leave requests<br>
+</p>
 <h2>Admin Features</h2>
+<p>
+Admin login with secure authentication<br>
 
-<h3>Admin login with secure authentication</h3>
+View all employee leave requests<br>
 
-<h3>View all employee leave requests</h3>
+Approve or reject pending leave requests<br>
 
-<h3>Approve or reject pending leave requests</h3>
-
-<h3>Manage and monitor employee leave status</h3>
-
+Manage and monitor employee leave status<br>
+</p>
 <h1>Technology Stack</h1>
 
 <p>Backend: Python, Flask
