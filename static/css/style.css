@@ -1,0 +1,10 @@
+body { font-family: Arial, sans-serif; background: #f0f0f0; margin:0; padding:0; }
+header { background: #0077cc; color: white; padding: 15px; }
+header h1 { margin:0; }
+nav a { margin:0 15px; color:white; text-decoration:none; }
+main { padding:20px; }
+footer { text-align:center; margin-top:20px; padding:10px; background:#eee; }
+input, textarea, button { padding:5px; margin:5px 0; }
+table { width:100%; border-collapse: collapse; }
+th, td { padding:8px; text-align:left; }
+th { background-color: #0077cc; color:white; }
